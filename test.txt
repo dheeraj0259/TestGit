@@ -1,1 +1,2 @@
 entering random text to check git command
+making changes to see anything in git
