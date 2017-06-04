@@ -3,3 +3,5 @@ making changes to see anything in git
 This is a new line for gitkraken.
 
 This is for branching.
+
+Editing in the github.
